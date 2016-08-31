@@ -44,7 +44,7 @@ DO NOT print inside of functions.
         <tbody>
             <tr>
                 <td>boolean</td>
-                <td><code>True</code> when <code>n</code> is elevenish, <br><code>False</code> otherwise.</td>
+                <td><code>True</code> when <code>n</code> is <strong>elevenish</strong>, <br><code>False</code> otherwise.</td>
             </tr>
         </tbody>
     </table>
@@ -206,7 +206,7 @@ DO NOT print inside of functions.
         <tbody>
             <tr>
                 <td><code>boolean</code></td>
-                <td><code>True</code> a, b, and c are in ascending order, <br> unless b is okay then it can be not greater than a. <br> <code>False</code> otherwise<br></td>
+                <td><code>True</code> when <strong>a</strong>, <strong>b</strong>, and <strong>c</strong> are in ascending order, <br> unless <strong>b</strong> is okay then it can be not greater than <strong>a</strong>. <br> <code>False</code> otherwise<br></td>
             </tr>
         </tbody>
     </table>
@@ -247,7 +247,7 @@ DO NOT print inside of functions.
         <tbody>
             <tr>
                 <td><code>boolean</code></td>
-                <td><code>True</code> if one of a, b, or c is 10 or more less than one of the others, <br> <code>False</code> otherwise<br></td>
+                <td><code>True</code> if one of <strong>a</strong>, <strong>b</strong>, or <strong>c</strong> is <strong>10 or more</strong> less than one of the others, <br> <code>False</code> otherwise<br></td>
             </tr>
         </tbody>
     </table>
@@ -308,7 +308,7 @@ DO NOT print inside of functions.
         <tbody>
             <tr>
                 <td><code>boolean</code></td>
-                <td><code>True</code> when a <strong>6</strong> is the first or last element of the list, <br><code>False</code> otherwise</td>
+                <td><code>True</code> when a <strong>6</strong> is the <strong>first</strong> or <strong>last</strong> element of the list, <br><code>False</code> otherwise</td>
             </tr>
         </tbody>
     </table>
@@ -339,7 +339,7 @@ DO NOT print inside of functions.
         <tbody>
             <tr>
                 <td><code>array</code></td>
-                <td>A version of <code>trio</code> with the numbers rotated left one place</td>
+                <td>A version of <code>trio</code> with the numbers <strong>rotated left</strong> one place</td>
             </tr>
         </tbody>
     </table>
@@ -370,7 +370,7 @@ DO NOT print inside of functions.
         <tbody>
             <tr>
                 <td><code>boolean</code></td>
-                <td><code>True</code> when <code>nums</code> contains 2 twice or 3 twice, <br><code>False</code> otherwise</td>
+                <td><code>True</code> when <code>nums</code> contains <strong>2 twice</strong> or <strong>3 twice</strong>, <br><code>False</code> otherwise</td>
             </tr>
         </tbody>
     </table>
