@@ -9,6 +9,9 @@
 #	Write the testing code first!
 #	Then implement each function.
 #
+#	Don't forget to commit after each
+#	function.
+#
 ########################################
 
 

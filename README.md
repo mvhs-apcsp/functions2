@@ -11,9 +11,11 @@ Run your code
 
 ## Goal
 
-Write the following functions. 
+Implement the following functions. 
 
-**Start with the code that tests the method**, then use that code to think about the problem and write your function. 
+**Start with the code that tests the method**, then use that code to think about the problem and write your function.
+
+Make a commit after correctly implementing each function.
 
 DO NOT print inside of functions.
 
