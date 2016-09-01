@@ -280,7 +280,7 @@ DO NOT print inside of functions.
         <tbody>
             <tr>
                 <td><code>str</code></td>
-                <td><code>"Fizz"</code> when <code>s</code> starts with <strong>f</strong> <br><code>"Buzz"</code> when <code>s</code> ends with <strong>b</strong> <br><code>"FizzBuzz"</code> when both of the above conditions are true <br><code>False</code> in all other situations</td>
+                <td><code>"Fizz"</code> when <code>s</code> starts with <strong>f</strong> <br><code>"Buzz"</code> when <code>s</code> ends with <strong>b</strong> <br><code>"FizzBuzz"</code> when both of the above conditions are true <br><code>s</code> unchanged in all other situations</td>
             </tr>
         </tbody>
     </table>
